@@ -4,7 +4,7 @@ I am a Golang and Cloud navite developer who wants to make some contributions to
 
 ## Languages and Tools
 <div align=center>
-<img align="center" src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,github,gitlab,maven,kafka,linux,mysql,postgres,postman,prometheus,altermanger,grafana,kubernetes,istio,idea,goland,rabbitmq,redhat,regex,redis,sentry,vscode,twitter,vim,&theme=light&perline=10" />
+<img align="center" src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,github,gitlab,maven,kafka,linux,mysql,postgres,postman,prometheus,altermanger,kubernetes,istio,idea,goland,rabbitmq,redhat,regex,redis,sentry,vscode,twitter,vim,&theme=light&perline=10" />
 </div>
 
 
